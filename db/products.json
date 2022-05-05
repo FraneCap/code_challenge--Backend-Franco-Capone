@@ -1,0 +1,58 @@
+[
+	{
+		"id": "B88yatugf1",
+		"name": "Bottle",
+		"description": "A bottle of water",
+		"image_url": "https://cdn-empjn.nitrocdn.com/XwyHQmqXQgQUrbJbUwDmDtDbdvcYyuWY/assets/static/optimized/rev-35973b4/wp-content/uploads/2018/04/Distilled-20-oz.jpg",
+		"price": "100.00"
+	},
+	{
+		"id": "5XXC8HxA0V",
+		"name": "Coffee",
+		"description": "A cup of coffee",
+		"image_url": "https://www.thepackagingcompany.us/knowledge-sharing/wp-content/uploads/sites/2/2021/01/ip-coffee-cup-sleeves-blog.jpg",
+		"price": "140.00"
+	},
+	{
+		"id": "j3_iCdulWQ",
+		"name": "Chips",
+		"description": "A bag of chips",
+		"image_url": "https://static.turbosquid.com/Preview/001178/374/AN/3D-potato-chips-bag-open_600.jpg",
+		"price": "160.00"
+	},
+	{
+		"id": "E5v-qgH-SL",
+		"name": "Cake",
+		"description": "A slice of cake",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg",
+		"price": "150.50"
+	},
+	{
+		"id": "odaZuwo_6A",
+		"name": "Cup",
+		"description": "A plastic cup",
+		"image_url": "https://www.l-impeccable.com/wp-content/uploads/2019/08/CA1056_Clear-Plastic-Cup-16oz-x1000_L-Impeccable.jpg",
+		"price": "30.50"
+	},
+	{
+		"id": "aVWOgCoxYk",
+		"name": "Bread",
+		"description": "A loaf of bread",
+		"image_url": "https://decoratedtreats.com/wp-content/uploads/2021/01/homemade-white-bread-loaf-feature.jpg",
+		"price": "200.99"
+	},
+	{
+		"id": "Q25sZHhGnC",
+		"name": "Cheese",
+		"description": "A piece of cheese",
+		"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiO1mH0lNgJkgfKxHGxavcGEr9AYje-XN2w&usqp=CAU",
+		"price": "400.00"
+	},
+	{
+		"id": "dfFWGlCawo",
+		"name": "Milk",
+		"description": "A bottle of milk",
+		"image_url": "https://m.media-amazon.com/images/I/61SX+-MJY7L._SY606_.jpg",
+		"price": "200.00"
+	}
+]
