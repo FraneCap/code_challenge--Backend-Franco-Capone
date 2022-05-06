@@ -1,7 +1,7 @@
 # Code Challenge
 
 ## BackEnd languages and tools
-The backend runs on Node.js and is built on JavaScript and Express
+The backend runs on Node.js and is built on JavaScript and Express, the data exchange is written in a JSON format.
 
 ### How to run
 To run the backend use npm i to install and node index.js to run.
